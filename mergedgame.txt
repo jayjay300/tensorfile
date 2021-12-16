@@ -1,0 +1,2194 @@
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+^^ This is a test line. It is 79 characters long. ^^
+
+The Rugrats Movie (GB/GBC) FAQ/Walkthrough
+By xXhakuhyouXx
+Copyright xXhakuhyouXx
+Date created: 1-22-2012 (January 22nd, 2012)
+Rugrats are copyright Viacom and Nickelodeon
+Game Boy, Game Boy Color, and all related insignia are copyright Nintendo
+
+===============================================================================
+Index (Use the codes inside the parentheses to find these with ease. Press
+Ctrl + F on Windows to search, and Apple + F on Apple/Mac to search):
+1) Update Dates (1aleg)
+2) Legal Info (2aleg)
+3) Contact Info (3aleg)
+4) About this FAQ/Walkthrough (4aleg)
+5) Walkthrough (5arug)
+6) FAQ (6faq)
+7) Credits (7aleg)
+
+===============================================================================
+Section 1: Update Dates ( 1aleg )
+
+1-22-2012: Created FAQ/Walkthrough, and began writing it. All sections
+added into index. Info above index section created.
+
+===============================================================================
+
+Section 2: Legal Info ( 2aleg )
+
+This document belongs to xXhakuhyouXx of GameFAQs. This document
+may ONLY be printed on GameFAQs and Gamespot. If it is found
+anywhere else, it is there illegally. You may only post this
+FAQ/Walkthrough on your website IF you e-mail me and get my
+permission. Do not be surprised if your request is denied.
+This FAQ/Walkthrough is protected by US law- if you claim
+it as yours, that is plagerism, which is ILLEGAL!
+You may not claim this FAQ/Walkthrough as your own, post it
+without my expressed permission, quote or paraphrase it
+without giving me credit, print it out to sell it for money,
+or send it to someone as a file. Anyone who does so has
+violated US law and is subject to punishment in US courts.
+
+===============================================================================
+
+Section 3: Contact Info ( 3aleg )
+
+You may contact me at my GameFAQs private message box. I do
+not have an email address, unfortunately.
+
+===============================================================================
+
+Section 4: About this FAQ/Walkthrough ( 4aleg )
+
+Q) Why did you decide to write a FAQ/Walkthrough for this game?
+A) Good question! I decided to write an FAQ/Walkthrough for this game for
+many reasons. Firstly, this was the first movie I ever went to a theatre
+and saw as a child; I remember it VERY vividly, even to this day. Secondly,
+I just bought this game yesterday (As of 1-22-2012), and when I searched it
+on GameFAQs, I found it had very low scores in the review section, and, to my
+surprise, NO FAQ or walkthrough! I knew something had to be done, and I knew
+I had to be the one to do it. Thirdly, this game is actually pretty hard,
+and if you don't know the Rugrats as well as me (I grew up watching them),
+or haven't seen this movie, you might have a little trouble with this game.
+
+Q) How long do you expect it to take to finish this FAQ/Walkthrough (as of
+1-22-2012)?
+A) Another great question! I expect it to take me no more than a year or so.
+So, it'll probably be finished a while before 2013, if there are no hold-ups
+or delays in the process...
+
+Q) By which means are you playing this game?
+A) I'm playing the GBC-enhanced version of this game (the GB-shaped,
+black-colored GBC cart) on a GBA-SP. Having said that, this FAQ/Walkthrough
+also applies to the non-GBC-enhanced version of the game, kind of like
+how a walkthrough for TLoZ: Link's Awakening would also work on TLoZ:
+Link's Awakening DX.
+
+===============================================================================
+
+Section 5: Walkthrough ( 5arug )
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Level One ( ruglv1 )
+
+You'll begin the level in the Pickles' basement, where Stu makes his toys and
+inventions. You'll be controlling Stu Pickles' son, Tommy Pickles. Jump off
+of the swivel-chair and walk to your right to find your first item- jump up to
+grab it. In certain levels, you are required to have a certain amount of items
+to complete the level; however, in this level, you can see the amount says that
+"00" items are needed. Just grab items for your score's sake (Not that the game
+even saves your score[s])...
+
+Watch out for the electric waves on the power generator- if you touch them,
+you'll get hurt, and items will fly away from you (Like when Sonic the
+Hedgehog gets hit and looses rings). Continue to your right, and immediately
+after passing the cardboard box reading "Junk", you will find three items
+near the large machine. Continue to your right to find another item near
+the leftmost side of the table and the spider webs. Then, jump up
+onto that table, and jump onto the switch on the right side of the machine.
+I still haven't figured out what it does, but it is necessary to complete the
+level, to my knowledge.
+
+Walk to your right, all the way past the machines and power generator. After
+you walk past the swivel-chair, there will be another table. Breifly press
+the B (Jump) button to get these two items near the edge of the table top,
+so that you don't jump onto the table itself. Continue to your right past
+another swivel-chair. The next table will have another item on it's edge.
+Continue to your right until you reach the stairs with the golden word
+"Goal" next to them. Congratulations,  you've beat the first level!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Level Two ( ruglv2 )
+
+Now, you will be in the Pickles' living room. Walk under the bouncing
+ball to avoid being hit, then jump over the scenery blocks (Not to be
+mistaken for collectible, golden item blocks), and also jump over the robot.
+The robot is an "enemy", so make sure that you don't touch it, because if
+you do, Tommy will loose his items! Jump onto the chair that Grandpa
+Pickles is usually sleeping in (On the cartoon, anyways), then onto the
+top of the TV to collect another item. To the right of the TV, on the floor,
+will be yet ANOTHER item! Continue to your right, and hop onto the blocks.
+Allow me to explain the game's balloons BEFORE you jump onto them.
+
+This game has balloons you can jump onto to find more items, and explore
+more areas. Be aware that if you fall from a high place in this game,
+you WILL lose all of your items, and I mean, ALL of them. To jump really
+high on the balloons, you have to time your jumps perfectly with touching
+the balloon you're standing on. It takes a bit of practice to learn, but,
+it's not the hardest thing ever. It kind of reminds me of the balloons
+in Cool Spot on SNES and Sega Genesis/Mega Drive.
+
+Watch out for the "enemy" toy [air]planes that could hit you while you
+jump on the balloons. Jump onto the ceiling light above the picture of
+Tommy's mom, Didi Pickles, to find another item on it's rightmost side.
+Jump all the way to the left side of the chain of balloons to find another
+item on another ceiling light. Continue back to the right on the chain
+of balloons, passing the other ceiling light, to find one more ceiling 
+light, with another item on it's rightmost side. Decend the balloons and 
+land on the blocks that got you up there in the first place, then, 
+continue right on theground.
+
+Once you've landed, go to the right to find another item near the column in
+the wall. Continue right, then jump onto the blocks, the chair, and the 
+bookcase, to get onto the fireplace, which has 2 items. Drop off of the
+bookshelf with the candles, then go to your left, to find one more item.
+Keep going right to find another item. You can also jump onto balloons here,
+however, I still haven't figured out how to get up there; if you have,
+hit me up on my GameFAQs message box, and tell me!
+
+Jump up and get the item on the bookshelf to your right, then continue
+right, and jump over the blocks and the robot. If you keep going right,
+you'll find the back door, and a robot. Hop over the robot, then go to
+the words "Goal" to your right to beat the level.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Level Three ( ruglv3 )
+
+There will be an item immediately above you; jump up to get it. In this
+level, you'll need to collect 14 items to win! Remember, if you get hit, you
+lose ALL of your items. Beware!
+
+Go to your right to find the sandbox. Watch out for the bird, and time
+your jump on the green and yellow ball to get the item above it and to it's
+left. The ball acts as a small balloon. Get the other item near the peak of
+the sand mountain, too. Proceed to your right, and jump over the spider. There
+will be an item above Spike's (The Pickles' dog) doghouse. Go right and jump
+the neighbor's fence. Jump onto the balloons and collect the two items
+slightly to the right of the beginning of the chain of balloons. Then, jump
+on the balloons to your left, and collect more items.
+
+Go back down to the ground by decending the balloons and landing on the
+neighbor's fence. Go to your right, and jump over the mole holes to get
+an item. The mole will jump out sometimes and hit you if you're not
+careful. Near a distant electricity pole, there will be another item. Keep
+heading right, to find two more items near two mole holes and a bird. Jump
+over the neighbor's fence to your right. You can climb onto the balloons to
+get more items, or just continue right. Since we got two (or more) on the
+balloons before, we won't need to get any more in the sky- the ground has the
+rest of the items we need. Get the item over the neighbor's dog house, and
+under their window. Go past near the unoperational fountain, then jump to
+snag the item above it. Continue to your right, past the word "Goal" (If
+you got more items in the sky that were optional, you will go to the next
+level if you walk past the goal). Hop the neighbor's fence to get one more
+item at the very edge of their yard. Cautiously walk back to the goal, and
+be transported to the next level.
+
+PASSWORD: RQVDHJVV (in lowercase, that's r q v d h j v v )
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Level Four ( ruglv4 )
+
+You'll see a scene of the Rugrats walking after your get your score. Now
+you're driving the Reptar car Tommy's dad made! Collect the items in front
+of you, and DON'T HIT ANY SCENERY, or you will have to start the level all
+over again! You can press the B button to speed the car up a little bit,
+however, I don't suggest going fast, because you might hit something
+unexpected, and have to restart the level all over again. The level will
+be fairly straightforward until you get to the traffic cones.
+
+Keep to the right of the traffic cones, then collect the items to their right.
+Stay straight- do not turn to your left or right at the intersection. Make
+sure not to hit the roadblocks! Keep going foward. There will be a circle
+of traffic cones around a pothole that has no cover. DO NOT drive into the
+pothole! Keep going straight, and don't go out of your way to get far-away
+items. You'll reach the goal in a few seconds, then get another cutscene.
+
+PASSWORD: TQMMY QK (in lowercase, thats' t q m m y (SPACE) q k )
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Level Five ( ruglv5 )
+
+You're now at the hospital to find Tommy's newborn brother, Dil. Press right
+to scroll through the characters to explore a corridor, and see if Dil is
+there. If you're wondering, that's Dr. Lipschitz on the TV next to Lil; he's
+a child psychiatrist that Didi depends a LOT on to raise Tommy.
+
+(THE REST OF THE FAQ/WALKTHROUGH IS COMING SOON!)
+
+===============================================================================
+
+Section 6: FAQ ( 6faq )
+
+Coming soon!
+
+===============================================================================
+
+Section 7: Credits ( 7aleg )
+
+Thanks to the love of my life, "Ayrton", for all the love and happinness
+you give me. Here's to the rest of our lives together!
+
+Thanks to YHWH (The Father, Son (Jesus) and Holy Spirit) for enabling me to
+write this FAQ/Walkthrough, especially since this game is so difficult!
+
+Thanks to Shigeru Miyamoto, Satoshi Tajiri, and the other [mostly] 
+Japanese game creators, for making my life filled with the things it is today- 
+Zelda, Mario, Pokemon, Chrono Trigger, Puyo Puyo, Tetris, and Panel De Pon!
+
+Thanks to GameFAQs and Gamespot for accepting my FAQ/Walkthrough and hosting it!
+
+And, thank you, reader, for reading this! :)
+
+Date: Mon, 21 Jun 1999 22:43:12 -0500 (CDT)
+
+R    U     G    R    A     T      S
+                                   SEARCH FOR REPTAR!
+
+
+Hi. The name iz Zackman. I played Rugrats: Search for Reptar™ and
+found it rather entertaining. There are some tough spots in the game
+which i will point out.  Here goes...
+
+---------------------------------------------------------------
+TABLE OF CONTENTS
+---------------------------------------------------------------
+
+1: The Controls!
+
+2: The Game/Story
+
+3: Why Rugrats, Zackman?!
+
+4: Walkthrough
+
+5: Secrets
+
+---------------------------------------------------------------
+1: THE CONTROLS!
+---------------------------------------------------------------
+
+X - Jump
+
+O - Pick Up Object, Set Object Down
+
+/_\ - Triangle Throws an Object, Tag a Baby, Grab an item leading to
+Games
+
+[_] - Square Makes Baby Walk
+
+R1 - Straighten Camera
+
+L1 - Look up
+
+L2 - Look left
+
+R2 - Look Right
+
+Directional pad - Directs Baby
+
+---------------------------------------------------------------
+2: THE GAME/STORY
+---------------------------------------------------------------
+
+Basically, this game is pointed to the younger audience, from 4 to 8. Or
+anyone who likes Rugrats... It's really short, but once you explore
+everything, it gets kinda okay.
+
+The story? Tommy plays around in the living room while the babies watch
+Reptar on TV. Tommy makes a pretty good impression of Reptar himself,
+knocking over blocks and kicking over a toy car. ''Where's my Reptar
+puzzle?'' He looks to the Reptar doll. ''There it is!'' He picks it up.
+Chuckie asks, ''W-where are the pieces?'' Tommy replies, ''They're
+inside!'' He shakes the doll and one puzzle piece falls out. He starts
+to cry. Stu and Didi enter the room. ''Whoa... Either all the pieces are
+missing, or that's the world's easiest puzzle.'' Stu chuckles. ''Oh
+my... the pieces must be all over the house!'' Didi says. Stu thinks,
+then hands Tommy a ball. ''Here, champ... have a ball!'' They leave the
+room. Tommy throws the ball away, and picks up the puzzle piece. He
+looks up in the sky and says, ''We'll find every piece of you Reptar,
+even if we hafta search the whole world!!' Thus beginning the search for
+Reptar...
+
+---------------------------------------------------------------
+3: WHY RUGRATS, ZACKMAN?!
+---------------------------------------------------------------
+
+Why Rugrats? Too much Cocacola... Litterally. Basically, i'm a little
+too asleep to realize what i'm doing.. by the time i send this, i'll be
+thinking... ''What the bleep did i just do?!?'' Ah well. Besides, i had
+to help alot of my friends with this, especially the hard levels.  So I
+give my help to all of you. yeah whuteva..
+
+---------------------------------------------------------------
+4: WALKTHROUGH
+---------------------------------------------------------------
+
+Chuckie Loses his Glasses [Easy]
+
+ Rain.. nuts! Nothing to do. What do we play? How about Pin the Tail on
+Chuckie? or Hide and go Peek!  but Chuckie's it, and extra eyes aren't
+fair. He searches for his friends and Angelica without his glasses.
+ Most of the time, the babies are on the 2nd floor of the house. But
+they're also sometimes at the bottom. If they are upstairs, run to the
+stairs and jump clear across them. Go straight through the kitchen and
+to the playpen. Done! Hit /_\ to tag a baby, then run.
+
+Ice Cream Mountain [Easy]
+
+Stu wants to go golfing. He takes the kids and promises them a huge ice
+cream mountain! Yum...
+ To put simply, walk to the ball and your golf club will appear. Hold
+down [_] to aim your club better and you should have no problem. At the
+bottom of this walkthrough is the descriptive version of this level.
+
+---------------------------------------------------------------
+5: SECRETS
+---------------------------------------------------------------
+
+Jump over stairs!!
+ 
+ While running when you are upstairs, go to the stairs and jump you
+should jump straight over them without hurting yourself.
+
+Incident on Aisle 7 Shortcut!
+
+ Near the beginning with the plants, you should find some balloons. Go
+towards them and grab them. You'll float to where the grocers try to get
+you.
+
+
+
+
+This FAQ was created by Zackman. You may use this FAQ in any pleasable
+way, as long as you ask me first. Rugrats is © Nickelodeon.  The
+Search for Reptar is © THQ Inc. 
+
+Zackman... To Psychotic Intentions and Beyond. XO
+
+
+WALKTHROUGH FOR RUGRATS: ROYAL RANSOM (THQ) for Nintendo Gamecube © 2001
+
+Version: 1.9
+Date:  September 28, 2008
+Author:  Laurel Glasco (cathairetic@cox.net)
+Copyright 2008 by Laurel Glasco, all rights reserved.
+You may not take this document in whole or in part and claim it as your own.
+You may not
+alter it in any way. Please do not post this on your site unless you have
+permission from me.
+
+Sites allowed to post this walkthrough:
+Gamefaqs.com
+Supercheats.com
+Neoseeker.com
+
+I would like to thank my grandson, Kory, who is an experienced and advanced
+game player,
+for playing the game on Reptar Tough when I came to challenges I couldn’t get
+through
+myself.  With his help, I was able to get information I needed to complete this
+walkthrough.
+
+1. STORYLINE AND BASIC INSTRUCTIONS
+
+Stu Pickles has invented a fantastic multi-level play set for children, the
+Play Palace 3000. He
+sets it up in his back yard for the babies to try out. Angelica steals the
+babies' favorite toys
+and holds them for ransom in the highest level of the castle on top of the play
+set. The babies
+complete the game challenges to get to the top of the play set and get their
+toys back from
+Angelica.
+
+ANGELICA is heard in the background whenever you are in the central area of the
+play set and
+when you are on the ground. She makes obnoxious and nasty comments all the
+time. My
+favorite Angelica-isms are when a baby fails a challenge and is sent back down
+to the ground:
+"Watch out for falling babies!" and "See you next fall!"
+
+The characters you can choose to play with are TOMMY, CHUCKIE, PHIL, LIL, and
+KIMI. My
+favorite of all is LIL. She has the smartest mouth of all of them and makes me
+laugh,
+especially in the Cheesy Chase challenge in Moon World. Each character has his
+or her
+comments on what is going on.
+
+SUSIE is the voice you hear telling you what you need to know before you begin
+each game
+challenge. If you miss or forget what Susie said press the start button and
+then select Susie’s
+Rules.  She will repeat the whole set of directions for the challenge you are
+in. You will find
+small batteries in each game challenge area and these are needed to open
+further challenges.
+
+You must win two or three game challenges in each world on each tier of the
+play set. Winning
+a game challenge gives you a big battery to put into the battery array in the
+central area of
+each tier. When the battery array is full the next tier of the play set deploys
+and becomes
+available. When you have filled the battery arrays on the three lower tiers you
+will be able to
+go up and challenge Angelica. As soon as Tier 3 deploys go down to the ATM on
+Tier 1 and
+purchase Hidden Funny Money.
+
+Don't worry about getting all the Reptar Funny Money the first time through the
+game
+challenges. Just win them. After you purchase Hidden Funny Money you can go
+back later and
+get the all the money and any small batteries you may have missed.
+
+If, after re-entering a challenge, you need a band-aid and can't get to one or
+if you are being
+heavily attacked by enemies, press Start and then select 'Yes' to QUIT LEVEL?
+Susie will say
+"Surrender challenge." You can then re-enter the game challenge with full
+health and finish
+getting the money.
+
+You begin the game with 500 gold coins (tokens). You pay 100 coins to get up on
+the play set.
+If you should fail a challenge, or quit it before winning it, your baby will be
+sent back down to
+the back yard and you will have to pay 100 gold coins to get back up on the
+play set.
+Therefore you should collect all the gold coins you see in the game challenges.
+
+You can save your game before you enter a game challenge so that, if you fail,
+you can quit
+the game and then start over with the same amount of gold coins.  If you run
+out of gold coins
+needed to get back up on the play set the game will be over. Save your game
+every time you
+win a game challenge just as a matter of course.  You must be in the area
+outside the game
+challenges to save your game.  If at first the save option does not come up,
+move to another
+spot until it does.
+
+2. DIFFICULTY LEVELS
+
+There are three difficulty levels:  Baby Easy, Rugrat Medium and Reptar Tough.
+I am an adult
+and have difficulty with Rugrat Medium, let alone Reptar Tough. I am sure these
+levels are not
+for younger children. Experienced gamers should have a good time with them.
+
+Differences in the difficulty levels are that on the medium and tough levels
+there are
+Angelicas-in-a-Box all over the place and they will explode if you touch them,
+there are fewer
+band-aids available and fewer gold coins to collect should you need them to get
+back up on
+the play set. There are also many more enemies to harass you and they are
+harder to destroy.
+It also takes more big batteries to fill the battery arrays. On a cheerier
+note, there is more
+Funny Money in the harder levels of play.
+
+3. GAMECUBE CONTROLS
+
+A button - walk; move the boat;  move underwater; move the moon buggy; jump,
+press twice
+in a row to double jump
+
+A button and then X button - Diapy Bounce (bum bash)
+
+B button - select your baby; use, shoot or throw; jump the moon buggy
+
+Control stick - forward; change directions; up or down when under water or in
+the air; target
+beetles
+
+C stick - changes the camera view
+
+X button - crawl, if running your baby will roll; reverse direction; put away
+bow and arrows
+
+Z button - first person view, press again to return to third person view
+
+Start button - You can see how many small batteries you have, how many coins
+you have
+collected and how much Funny Money you have. This will also show you the
+"Continue, Quit,
+Save, Susie’s Rules, Options" menu. While this menu is displayed the game is
+paused.
+
+4. ITEMS
+
+Small Batteries - These are used to open new challenges.
+
+Big Batteries - Your reward for winning a game challenge.
+
+Coins - Found throughout the game challenge areas. You need 100 coins to get up
+onto the
+play set.
+
+Reptar Funny Money - Found throughout the game challenge areas.  Use this to
+purchase the
+Bonus Games at the ATM. After you have purchased Hidden Funny Money return to
+all the
+finished levels and find the additional Funny Money. Funny Money comes in three
+colors:
+Blue=$10, Purple=$50 and Red=$250.
+
+Magic Helper Ball - Touch it and follow it as it leads you closer to where you
+want to go.
+
+Radar Screen - This helps you locate what items you need to find.
+
+Energy Meter - This tells you how much health you have.
+
+Band-Aid - Look for one of these if your health is low.
+
+Angelica-in-a-Box - A booby-trap. If you touch one of these it will explode.
+
+Green bomb - Found in Moon World. When you go near it, it will click to arm
+itself.  If you
+touch it - BOOM!
+
+Big Blue Crates - Found in Circus World - Cone Caper. These contain Pink Snow
+Cones.
+
+Large Tan Crates - Found in Jungle World. These contain gold coins or bananas.
+
+Jars and Baskets - Found in Arabian World. These contain gold coins, jewels, or
+purple scarab
+beetles.
+
+5. WALKTHROUGH
+
+*ON THE GROUND*
+
+You must choose which baby you will use to play the game. They are lined up to
+the right of
+the house. Press B to activate your choice. Each one will move a little to show
+that it is
+activated. Just keep pressing B until you get to the baby you want to use. You
+can change
+babies when you are outside the challenges at any time.  If the baby you want
+to use is still in
+the backyard you will have to pay 100 coins to get him/her up to the play set.
+The baby you
+were using will still be on the play set in the place where you pressed the B
+button.
+
+Go into the house and collect the gold coins in the two rooms. These coins and
+those in the
+back yard will reappear every time you go back down to the back yard. Walk
+around the
+perimeter of the yard and gather the gold coins. Then do a double jump to get
+the coin by the
+"Hover-vator." Step onto the Hover-vator and you will be prompted to pay 100
+gold coins to
+purchase an 'up' to the first floor of the play set. Click on "yes."
+
+*TIER 1*
+
+SNOW WORLD
+
+Ready, Set, SNOW
+Small Batteries Available: 3
+
+In this game challenge you must race your sled against two snowmen, Chilly and
+Slush. Avoid
+the ice crags and snow patches, and jump the logs with A. Try not to hit
+anything because it
+slows you down.  First you race the small snowman, then the large snowman, then
+both for a
+total of three races. You must win all three races.
+
+On the harder levels of difficulty you must find shortcuts over the banks to
+have any chance at
+all of winning a race.  When you re-enter the game challenge to try to get the
+Funny Money
+and batteries, keep an eye on the race graph at the bottom of the screen and
+exit the
+challenge before the snowman gets to the finish line or your baby will be sent
+back down to
+the back yard.
+
+* * *
+
+Mr. Snowtato Head
+Small Batteries Available: 3
+
+Find all of Noodle the Snowman's missing parts by following the white helper
+balls next to
+signs with pictures of his parts. Just touch a helper ball to get it to deploy.
+Then follow it and
+touch it again if you need to. You must jump up onto a roof to get his scarf.
+Use the two
+barrels at the side of the house to jump up to the roof. On the more difficult
+levels there are
+Angelicas-in-a-Box all over and you may find it tricky to maneuver around them
+since you
+have nothing to shoot at them and set them off. On Reptar Tough difficulty
+there are no white
+helper balls.
+
+There are no enemies to bother you and Funny Money is lying around everywhere.
+Explore to
+find it. Take the sky-ride up the mountain to see where the money is.  Then you
+can run down
+the mountain and get it. There is a side path down the mountain through a fence
+near the top
+of the sky-ride.  You must jump down from ledge to ledge.  One of the small
+batteries is on
+the first ledge.  There is a tunnel to the right of the house. At the end of
+the tunnel there is a
+rope you can climb and at its top you will find yourself halfway up the
+mountain. After you
+have purchased Hidden Funny Money, go back to this game challenge and find more
+Funny
+Money.
+
+* * *
+
+Snowplace To Hide
+Small Batteries Available: 3
+
+You must get the key to unlock the mountain passages. Take the sky-ride to the
+top of the
+mountain to find it. Use B to throw snowballs at the taunting snowmen to smack
+them and get
+gold coins. You can also throw snowballs at the ice cubes to get gold coins.
+
+Explore the area to find all the Funny Money. There is a tunnel to the right of
+the house (but
+no rope up to the mountain) that is blocked by ice cubes that has Funny Money
+and a band-
+aid in it.  After you have purchased Hidden Funny Money go back to this
+challenge and find
+more Funny Money.
+
+The more difficult levels are infested with Angelicas-in-a Box and there are
+many more
+snowmen throwing snowballs at you. The snowmen move around much more also.
+
+JUNGLE WORLD
+
+River Fun Run
+Small Batteries Available: 2
+
+You must race in three boat races against three alligators: Junior, Mama and
+Big Daddy. Try
+not to hit anything because it slows you down and reduces your health.  You
+will hear a beep-
+beep as the alligator passes you. Use the Control stick to go forward and to
+direct your boat.
+Press X to reverse. Press A to jump. White boxes in the water are First Aid
+kits.
+
+If you are playing on one of the more difficult levels you absolutely must use
+the ramps you
+see as shortcuts because the alligators are much, much faster. There will also
+be Angelicas-in-
+a-Box in the water along with First Aid boxes if you lose health from running
+into things. In
+Race Two I think that Mama Alligator can somehow get a head start on you. If
+this happens
+you cannot catch her. The alligators are so fast on Reptar Tough level that
+when they pass you
+a steam train whistle sounds!
+
+When you return to the game challenge to find Funny Money and batteries keep an
+eye on the
+race graph at the bottom of the screen. Exit the challenge before the alligator
+gets to the
+finish line or your baby will be sent back down to the back yard.
+
+* * *
+
+Punting Papayas
+Small Batteries Available: 3
+
+This challenge made me wonder if this game was really for little children at
+all.
+
+You must take a papaya from the base of the papaya tree and bring it to a
+papaya crate. Just
+walk into the papaya.  Follow the white helper ball to the crate. Walk into the
+open crate with
+the papaya. There are also plain tan crates here and there and these are full
+of coins.  When
+you are not holding a papaya use your Diapy Bounce to break them open.
+
+You cannot double jump when you are holding a papaya.
+
+On Baby Easy level you must crate 3 papayas.  On Rugrat Medium level you must
+crate 4
+papayas and on Reptar Tough level you must crate 5 papayas.
+
+The paths are very tricky with many jumps and pitfalls. For example on Baby
+Easy difficulty:
+The first path has you jumping four water lily pads to a shore (edge down into
+the water
+before you make the first jump). You turn around on the shore and then jump
+onto more
+water lily pads leading to a stone pillar lying on its side.  You jump up onto
+the pillar, walk
+along it and then jump up to a stone portico. Your path winds around on the
+portico and from
+there you must navigate the tops of stone pillars. Some pillars will lean if
+you stay on them
+too long, these are a muddier gray color, so stand on the edge in the direction
+you need to
+jump) Follow the pillars down to another shore, the papaya crate and a new
+papaya tree. You
+will probably fall in the water a lot and drop many papayas before you get the
+hang of it.
+
+Some paths have you jumping across partially submerged pink hippopotami that
+sink if you
+stay on them too long. The big jumps are on big pink mushrooms.  Hold A and
+bounce really
+high.
+
+If you fall in the water you lose little or no health but landing on the ground
+will damage you:
+the longer the fall, the greater the damage.
+
+This game challenge is loaded with Funny Money and there is quite a bit inside
+the temple
+near where you begin. To get to the inside top of the temple you must travel
+all the way
+through the challenge to the river section. You then must jump up into the
+treetops (use a
+pink mushroom) to get to the temple roof. The stone projections on the temple
+have money
+on them but will tilt down and you will slide off unless you jump along them
+quickly. Jump
+inside the temple and fall down on a line of Funny Money and gold coins. You
+will find yourself
+back at the beginning of the challenge area.
+
+Each difficulty level increases the number of papayas you must crate. On the
+more difficult
+levels of play you will pass 'check-point' trees on your way to the crate.
+They will sparkle to
+show they are activated. Susie will call out "check-point" when you pass one.
+These trees will
+give you a papaya if you accidentally drop the one you are carrying.  That way
+you do not
+have to go all the way back to the first tree of that particular path.
+
+On Reptar Tough difficulty level, on the last papaya path, I do not follow the
+helper ball over
+the hippopotami and lily pads to the stone ‘bridge’ in the middle of the river.
+When I arrive at
+the river I turn right and stay on the river bank and run up the slope to go
+into the cave
+behind the waterfalls.  It saves a lot of trouble to do that. When you exit the
+cave, follow the
+path to the tree with the pink mushroom under it and jump up into the treetops.
+If, after you
+get to the very last check-point tree, you should fall and not lose your
+papaya, you will be put
+back at the pink mushroom where you jumped up into the trees. You can jump into
+the water
+with your papaya and you will be returned to that last tree closest to the
+temple. This is the
+most difficult papaya to crate because you must land on the pink mushrooms as
+you bounce
+from islet to islet.  If you land on the grass you will lose health. Then you
+jump to the tilting
+stone projections on the temple. Stay close to the temple wall and you can make
+it across the
+projections to the crate.
+
+You must be very careful of your health on the difficult levels because
+band-aids are few and
+far between.
+
+* * *
+
+Monkey Business
+Small Batteries Available: 3
+
+You need to catch the monkeys that are stealing the bananas. Use the B button
+to throw
+bananas to stun monkeys and put them into monkey cages. It is basically the
+same area as
+the Punting Papayas game challenge with minor differences. Here you are
+starting in the
+middle of Jungle World.  On the Baby Easy level you must get four monkeys into
+cages, on
+Rugrat Medium you must get eight monkeys and on Reptar Tough you must get twelve
+monkeys.
+
+Don’t throw bananas around indiscriminately on the harder levels of play
+because on Reptar
+Tough level there are no crates of bananas to be found. However, the few single
+bananas you
+pick up as you make your way through the challenge area do reappear after a
+while. You
+cannot double jump when you are holding a monkey.
+
+If you make a misstep bringing a monkey to a cage you will drop the monkey and
+have to
+catch it again. On the more difficult levels of play throw bananas at the
+Angelicas-in-a-Box to
+set them off instead of trying to edge by them.
+
+On the two more difficult levels of play the rope and plank bridges have planks
+missing. When
+you start to cross the second bridge the viewpoint is often not good enough for
+you to see the
+holes in the planks.  If you run back up to the big tree trunk at the beginning
+of this bridge
+then when beginning your transit, the view will be adjusted so you can clearly
+see the floor of
+the bridge and can avoid the gaps in the planking.
+
+First, Diapy Bounce on all the crates in the immediate area to get bananas
+(Baby Easy level)
+and gold coins. Otherwise the monkeys use these to dodge behind and avoid you,
+and you find
+yourself running in circles. Many monkeys you can chase and catch but most of
+them you
+must throw a banana at to stun them.  When I played this on Reptar Tough I
+rarely had to
+bean a monkey but maybe that was because I had improved my chase skills.
+
+Once you have picked up the monkey by walking into it, carry it to a monkey
+cage and walk
+into the cage to drop it in.  You can climb up to the temple here by going
+through the trees
+but the stone projections here are solid and do not tilt. You cannot jump down
+inside the
+temple in this challenge. You can jump down a series of pillars to the base of
+the temple and
+finish the rest of Jungle World.
+
+On Reptar Tough difficulty the first rope and plank bridge is blocked off by
+Angelicas-in-a-
+Box. After you detonate these with bananas you will find the climb up to the
+second bridge
+also littered with Angelicas-in-a-Box.
+
+On both harder levels I avoid more of them on the way up to the third bridge
+this way: Jump
+across the second bridge until you are next to the ledge with the pink mushroom
+on it. Instead
+of going around this stone pile and jumping up from ledge to ledge, jump to the
+left over the
+bridge railing onto the mushroom and bounce up to the top of the stone pile.
+You will have
+avoided one large and one small box. The small one is virtually impossible to
+get by without
+touching it so you will have saved yourself a lot of health by taking the
+shortcut. You can also
+use this shortcut in the Punting Papayas challenge.
+
+When you have nine monkeys in cages you must climb up to the temple top and
+then down to
+its base to finish with the last three monkeys.  The last cages are (10) and
+(11) up on stone
+'bridges' reached by pillars and (12) at the end of the rolling rocks canyon.
+
+This challenge is also loaded with Funny Money. Be sure to get the Funny Money
+over the
+stone entrance door to the bridge area. You will have to jump down to it from
+the cliff above.
+Also on the cliff above is a stone gazebo of sorts. In order to get the red
+Funny Money on a
+wall near the edge of the cliff, you must climb up the wall behind the stone
+gazebo and then
+jump to the gazebo roof edge. Make your way around to the front and then jump
+down onto
+the red money. Whenever you have a clear view of a large area try to look all
+around you to
+see where the Funny Money is waiting.
+
+* * *
+
+$
+
+This is where you stand, and are pulled up the Wind Pipe, to go to the ATM to
+purchase the
+bonus games with Reptar Funny Money.
+
+*TIER 2*
+
+UNDERSEA WORLD
+
+Stand under the Wind Pipe and press A to be pulled up into Undersea World.  How
+did Stu
+Pickles manage to put islands and a sea in the play set? His water bill must be
+horrendous.
+
+Sub a Dub Dub
+Small Batteries Available: 3
+
+This game challenge requires a lot of exploration if you are to find all of the
+money and
+batteries. Completing the main mission is simple: Find four treasure chests and
+drop them into
+the big nets. The green dots on the radar highlight the treasure chests. Find a
+chest and lower
+the submarine down to it. When you have a treasure chest on your sub's magnet,
+take it to
+the giant net. You need only lower the sub over the net and the treasure chest
+will
+automatically drop onto it. Press A to go forward, press X to reverse and use
+the Control stick
+to go up or down.
+
+Watch out for the giant electric eels. They are a silvery blue and have arcs of
+electricity
+sparking about them.  Use the B button to fire a "torspeedo" at them. It takes
+three hits to
+dispatch them. If they get near you they will shock you until your health is
+gone so shoot from
+a distance. There are also annoying yellow fish that will blow up when you get
+near them. If
+you get too near they will explode and you will loose health. Unfortunately
+your torspeedoes
+are of no use against them. There are many more of these two enemies on the
+harder levels
+of difficulty. If your submarine bumps into anything you will lose health.
+There are band-aids
+floating in bubbles and there is one in the middle of the first net you see in
+case you need it.
+
+On Reptar Tough level of difficulty there are lots of giant electric eels and
+yellow blow fish.
+You must still find four treasure chests. The sunken boats seem to have
+multiplied and
+sprouted extra masts and spars so that there is a veritable obstacle course for
+you to
+navigate.  Of course the electric eels and yellow blowfish all hang around
+where there is a
+treasure chest. If you are not careful you will sustain a lot of damage to your
+sub from the
+boat rigging and from those yellow fish.  Torspeedo the electric eels and find
+the chest. When
+you have a treasure chest, rise almost to the surface and speed to the net.
+That way the
+yellow fish don’t have time to blow up because you are already past them.
+
+Coins in this game challenge can be hidden under piles of black rocks. Use the
+B button to
+blow up the rocks. Other large black rocks can also be blown up to reveal coins
+or a tunnel
+opening. Although there is a lot of money in this area, especially after you
+purchase Hidden
+Funny Money, it is very difficult to see. You have to be nearly on top of it
+before it really
+becomes visible.
+
+* * *
+
+Hot Cod Racer
+Small Batteries Available: 2
+
+Herman and his hermit crabs challenge you to a race. You are racing against
+other hermit crab
+'chariots.' Follow the red arrows to stay on course. Press A to go forward and
+use the Control
+stick to control your direction. You cannot reverse. You must complete three
+laps and stay
+ahead of the others to win. Halfway through the lap there is a short-cut where
+you can go
+down into a tunnel and come out ahead of the other crab chariots.
+
+As you have no weapons, the electric eels and yellow blow fish don't go after
+you in this
+challenge but if you do run into an electric eel, you will be zapped. You will
+not lose health but
+it will slow you down. It's easy to win on Baby Easy, but very difficult on the
+harder levels. On
+Reptar Tough the other chariots are really fast and difficult to pass.
+
+As in Sub A Dub Dub there is a lot of Funny Money to be found but it is
+difficult to see and
+find.
+
+When you re-enter the challenge to find Funny Money and batteries you must keep
+an eye on
+the race graph at the bottom of the screen.  It tells you the position of all
+the racers.  Since
+you are taking your time to hunt for items you will be last.  Do not let a
+racer reach the finish
+line or your baby will be sent down to the back yard.  When a racer is almost
+to the end of lap
+three, exit the game challenge and then return again to finish your hunt for
+items.
+
+ARABIAN WORLD
+
+Meanie Genie
+Small Batteries Available: 4
+
+The Nice Genie’s big brother, Meanie Genie, has escaped from his lamp.  This
+game challenge
+is broken up into two sections. In the first part you ride a camel and use the
+B button to make
+it spit at Meanie Genie’s purple scarab beetles. If you are not fast enough the
+beetles will get
+to you and bite you until your health is gone.  You must do this three times.
+The first time the
+beetles are on the ground. The second time they are flying in the air and the
+third time they
+are both in the air and on the ground. This is easy on the Baby Easy level but
+not easy on the
+harder levels because the beetles are much faster. On the easier levels there
+are 50 scarab
+beetles in each wave. On Reptar Tough level there are 100 beetles in each wave
+and they are
+super fast. The third wave is absolutely the worst.  Your health can go down so
+fast that you
+are tossed out of the challenge before you know it.
+
+The second section is in the genie's cavern. After you get off the camel at the
+entrance to the
+cavern you can return to the challenge start on foot and collect any Funny
+Money/batteries.
+Then return to where you got off the camel. Once you enter the cavern avoid the
+green mist.
+It will knock you out. On the more difficult levels the green mist sprays out
+four ways at a
+time
+
+You can quickly need a band-aid but fortunately band-aids are usually around
+and they
+reappear after a minute so you can go back and get more health if you need it.
+Most of the
+rocks you must jump across will sink into the lava if you stand on them so move
+quickly. Run
+up the path and you will see Meanie Genie. Avoid the rocks Meanie Genie throws
+at you and
+touch his lamp. Then he will go back in the lamp for a "time-out."
+
+When you re-enter this challenge to get all the Funny Money go past the genie
+and you will
+find yourself climbing spiral paths that end in nothing and will have to jump
+onto flying carpets
+to continue your hunt.
+
+Warning: On Baby Easy difficulty do not go over to the place where a cliff
+looks like a face.
+That is where the lamp is on the Rugrat Medium level. If you do, you will not
+be able to exit
+this area and will have to surrender the challenge and begin your hunt for
+Funny Money and
+batteries again. This means facing the nasty bugs again.
+
+* * *
+
+Rugrat Rug Race
+Small Batteries Available: 3
+
+You are riding a flying carpet and must collect 100 of the jewels that you see
+as you fly three
+laps around the course. Use the Control stick to direct the carpet left, right,
+up and down.
+Press A to jump your carpet up to reach items just above you and to get to
+higher places or
+paths. You cannot reverse.
+
+If you get all the jewels required in less than three laps, the game challenge
+will end with a
+win anyway. There is no time limit so you can try to snatch the Funny Money and
+batteries as
+you fly by (but concentrate on the jewels). If you don't get it all the first
+time you can return
+to the challenge later and pick it up. Just remember to exit the challenge
+before the third lap
+is over so your baby is not sent back down to the back yard.
+
+On the more difficult levels of play there are fewer jewels but a lot more
+money.  I am not
+very good at this on the harder levels so I find that, if I bang the carpet
+into a wall many
+times (A button) in the different areas, jewels will often just fly into me and
+increase my count
+that way.  You must be a champion rug driver on Reptar Tough to win this one.
+
+* * *
+
+Temple of the Lamp
+Small Batteries Available: 3
+
+The Nice Genie has locked himself out of his house. His lamp is in the Temple.
+You must
+collect a certain number of jewels, depending on the difficulty level, to open
+the gates to the
+Temple. Baby Easy requires 40 jewels, Rugrat Medium requires 55 jewels and
+Reptar Tough
+requires 70 jewels. Gems are all over the place, on the ground, in jars, on
+roofs, by stone
+piles. To open the jars use the Diapy Bounce. The jars can contain coins,
+jewels... or purple
+scarab beetles! Ouch! The jars up on the roofs are all safe to open.
+
+There are blue trampolines to help you jump up to roofs. Most of the buildings
+have awnings
+on the doors and windows so you can use them to jump from one awning to another
+or to
+different buildings or tall rock piles. Just hold down the A button to jump
+very high. There are
+also magic ropes that will extend up from a coil to help you reach a building
+roof or a floating
+jewel. There are several flying carpets about in the second area and if you
+stand in the right
+place you can jump on them to hitch a ride to higher places.
+
+If you fall in the river you can get out on a path up to the first area.  There
+are coins and
+Funny Money in the river but the money is underwater and really hard to get.
+Jump from the
+highest point on the bridge and make sure you land right on top of it.
+
+In the two harder challenges there are large purple scarab beetles that will
+attack you. Avoid
+them if you can. If they bite you, you will lose health. You can hear them
+coming. Get on
+something a level above them (a blue trampoline is not high enough and a jar is
+not safe
+enough) and watch them run into the wall and explode.
+
+After you have gathered the required number of gems the gates to the Temple
+will open and
+you can get the Genie's lamp. All the jars here are full of gold coins. Be sure
+to go around the
+outside and collect all the money and gold coins before you enter. There are
+money and coins
+floating in the water so look for them.
+
+Funny Money may be suspended in the air, especially in front of tall rock
+piles, requiring you
+to jump from one place to another or to fall on it to collect it.
+
+CIRCUS WORLD
+
+Cone Caper
+Small Batteries Available: 4
+
+You must navigate a circus side show to get to the end of the game challenge.
+There are
+clowns everywhere throwing pink snow cones at you. "Har-de-har-har-har!" Smack
+them with
+your pink snow cones (B button) to knock them down and get gold coins. Diapy
+Bounce on the
+big blue crates to get more cones. You can carry up to ninety-nine cones at a
+time. The crates
+reappear after a time so you can return to them if you are in the same area.
+There are lots of
+band-aids in case you need them.
+
+The fountain in the rear of the side show area has lots of money on it. There
+are two semi-
+hidden areas where you can get money also: the airplane ride and the Ferris
+wheel. If you see
+an alley bounded by wooden fences, investigate it.
+
+Follow the white helper ball to the final area. There is a large trampoline.
+Hold down the A
+button to jump farther and higher. This area is full of stacked crates and
+boxes. Climb up the
+tallest pile of crates to get a small battery.  From up there you can see where
+everything is.
+
+Jump into the rocket gun to be shot into the fenced enclosure where you will
+have to beat a
+"boss." There are three rounds to this. Each time hit the three clowns with
+cones and then hit
+a target on the big revolving clown head. Each time there is one less target to
+hit, ending with
+one only on round three. If you don’t hit the target fast enough in any round,
+the clown head
+will lower and you will have to repeat that round.
+
+On Baby Easy the clown head just revolves. On Rugrat Medium, the revolving
+clown head will
+shoot out cotton candy vapor at you along with pink snow cones. On Reptar Tough
+the
+revolving clown head shoots pink snow cones in round one.  If you stand in line
+with a small
+clown, the clown head will shoot him as it tries to get to you!  In round two
+it shoots pink
+snow cones and pink cotton candy vapor.  In round three it shoots pink snow
+cones, pink
+cotton candy vapor and cotton candy bombs.
+
+* * *
+
+Acrobatty Dash
+Small Batteries Available: 3
+
+This game challenge is timed so do not stop to get the Funny Money or the
+batteries the first
+time in. Just win the challenge and return to collect these items. Baby Easy
+level gives you 7
+minutes to start. Rugrat Medium gives you 3 minutes 30 seconds and Reptar Tough
+gives you
+only 2 minutes to finish. However, every time you touch the white helper ball
+you have
+seconds added to the time remaining. If you don’t fall off anything you can end
+the challenge
+with the same time left as when you began.
+
+Make your way from one end of the tent to the other. Jump into the rocket guns
+to be shot
+across the tent after the helper ball. DO NOT LOSE YOUR WHITE HELPER BALL or
+the STAR on
+the last platform will not appear. Touch the star to finish. You must touch the
+helper ball every
+time you come up to it. If you do get ahead of it and fall down to the floor
+the game will put
+you back to where the helper ball is. Hold the A button to bounce higher on the
+big drums and
+make it to the next one. If you fall you will lose health and time.  You must
+also swing on
+trapezes and hang-ride down zip lines. If you time it right you can jump from
+trapeze to
+trapeze and save time.
+
+When returning to the challenge watch the time clock and surrender the
+challenge before it
+runs out or your baby will be sent back down to the back yard.
+
+* * *
+
+Cream Pie Flyer
+Small Batteries Available: 4
+
+You are flying a plane in the Big Top circus tent. To win the game challenge
+shoot cream pies
+at the trucks circling below and then at the clowns that fall out. If you keep
+shooting pies at
+the empty trucks you can destroy them, and the clowns will be left to run
+around on the floor.
+The trucks shoot cotton candy bombs.  On Reptar Tough level the trucks’ aim is
+improved so
+you can lose health quickly if you don’t keep your distance.
+
+A number on each side of a truck indicates how many clowns are inside so you
+will know how
+many there are left that you must hit. More cream pies are available at the top
+of the tent,
+attached to balloons. There is a lot of Funny Money up there and on the ground.
+The red and
+white boxes are First Aid kits and will restore you to full health if your
+plane has bumped into
+anything or you are hit by any cones or bombs.
+
+On the more difficult levels there are clowns on the top rafters who throw snow
+cones at you
+so it is harder to get the refills you need from the balloons. There are only
+four First Aid kits
+on Reptar Tough and they do not reappear.  Your strategy here is to eliminate
+the clowns on
+the rafters first so that you can get to the refill balloons when you need
+them.  Do not use a
+First Aid kit until your health is almost gone since a First Aid kit restores
+you to full health.
+
+There is red Funny Money near the top of the center tent pole and over the red
+banners at
+either end of the tent. There is purple Funny Money on a rafter and hiding
+behind the red
+banners also.  Blue Funny Money is all over the floor.
+
+*TIER 3*
+
+DINO WORLD
+As Lil says, "This is funner than dirt!" Now Stu Pickles has managed to squeeze
+an entire
+prehistoric world, including volcanoes, onto the play set. How does he heat up
+the lava?
+
+Rex Riding
+Small Batteries Available: 4
+
+This is the easiest game challenge in the entire game. You must collect bones
+and drop them
+on the bone pile. Sneak up on the dinosaurs slowly and from behind because if
+one sees you it
+runs away. Walk into it and you will then be riding it. Run over the bones to
+pick them up.
+Run over the bone pile to drop the bone.  A "ding" will sound indicating your
+success. You can
+also press B to throw the bones on the pile but I find it is much easier just
+to run over it. On
+Baby Easy difficulty you will find enough bones in the general area right
+around the bone pile.
+
+The dinosaurs jump extremely far and high so use them to jump over the lava to
+get more
+bones on the harder levels of difficulty. They can easily over-jump a target so
+you will learn by
+doing when and where to jump them. They also cannot make tight turns because
+they run so
+fast.  They do not stop. If you want to get off you will have to run the
+dinosaur into
+something.
+
+There are three main areas in this challenge. The first is where the challenge
+begins, a large
+grassy field.  The second area is a volcanic island in the lake and the third
+is across the lake
+where there is a giant rib cage lying on the ground.  Actually this third area
+is on the other
+side of the big volcano from the first area. When you go through the tunnel
+path looking for
+bones or money, etc. you will see it below.
+
+It is much easier to find all the small batteries and Funny Money on foot. Your
+baby can make
+the jumps that the dinosaurs do to get to islands in the lava. Some of the
+money is on the
+edge of an island and the dinosaurs cannot get to it without falling in the
+lava. Look for places
+where you can climb up higher.
+
+Be sure to look for rocks hidden in the lava smoke where red money is waiting.
+There are two
+of these places: One is in the volcano on the island in the lake and there is
+also red money on
+a ledge behind this volcano. The other smoke hidden rock is on the upper slope
+of the main
+volcano, above the large grassy field.  Follow giant rock "steps" up to this
+one.
+
+If your dinosaur runs into a wall or falls into the lava you will be set down
+on land closest to
+where it fell. If it falls in the shallow lake you will be left in the lake.
+The dinosaur will be
+returned to where you found it.
+
+* * *
+
+Fly High Egg Hunt
+Small Batteries Available: 4
+
+Follow the white helper balls to the colored eggs and to a "scary-dactyl" that
+will fly you up to
+the nest where the egg belongs. Walk into it to get on its back. The nests are
+in the tops of
+tall trees and already have a colored egg in them so you can tell into which
+nest to drop the
+egg. You do this by flying closely over the nest. Do not let the scary-dactyl
+bump into anything
+because you will lose health rapidly. Green creatures scuttle between the rocks
+on the ground
+and if one hits you while you are walking you can lose health. There are
+band-aids on the
+ground, in the tops of trees and on top of tall rocks for you to collect if you
+need them.
+
+Baby Easy level is just that, but at the harder levels of difficulty this
+challenge is really very
+hard to win. The paths you must take to get to the eggs and the scary-dactyls
+are peppered
+with Angelicas-in-a-Box or are down in the lava.
+
+There is Funny Money all over the area and down just above the surface of the
+lava lake. If
+you look at the lava lake from the sky, it resembles a large dinosaur
+footprint. Look in the top
+of the volcano and fly through the mountain tunnel for some large amounts of
+Funny Money.
+Unfortunately you cannot go on foot all around this challenge area because the
+lake is lava,
+not water as in Rex Riding, and is a barrier between the areas. Therefore you
+must use a
+scary-dactyl to collect most of the items. You must have an egg for the
+scary-dactyl to carry
+you.
+
+MOON WORLD
+
+Stand under the Wind Pipe and Press A to be pulled up to Moon World. Jumping is
+easy "on
+the moon" because you weigh less and can float to higher levels than usual.  I
+wonder how
+Stu Pickles managed this?
+
+Rise of the Anjellyuns
+Small Batteries Available: 5
+
+Your spaceship has crashed on the moon and needs to be repaired. Follow the
+helper balls
+around the cheese factory to easily find the engine parts. Press B to throw
+your glow bombs to
+blow up the Anjellyuns. Watch out for the "moon booms" they toss at you! If you
+fall from a
+platform while over the 'abyss,' you will be returned to the edge where you
+started.
+
+This challenge is much, much harder on the difficult levels of play. There are
+mega-giant
+Anjellyuns and teeny, tiny Anjellyuns and they are all out to get you. However,
+just one of
+your glow bombs can take out a group of the teeny, tiny ones at one blow. The
+little ones will
+also follow you to run into the crates you stand on and into the edge of the
+Cheese Factory
+platform. They make a satisfying splat. Thank goodness the band-aids reappear
+after a short
+time. Be sure to check out both sides of the first upper airlock (above the
+room with the
+plants). There should be $500 there. Just get rid of that mega-giant Anjellyun
+first. The
+challenge area is large and you must explore it to find all the Funny Money and
+batteries.
+
+* * *
+
+Moon Buggy Madness
+Small Batteries Available: 4
+
+You must collect fifty pieces of cheese to win this game challenge. Your fuel
+runs out quickly
+so you must run into the fuel cells that you see floating about the area to
+refill your tank. After
+you have won the challenge, return to collect the money and batteries.
+
+There is Funny Money all over the challenge area but the overhead tracks seem
+to have most
+of it.  The problem is staying on the track as you zoom around trying to pick
+up the money.
+You also need to be up on these tracks to jump down onto some of the bigger
+piles of money
+on the main floor because they are on top of rock piles. To get up onto the
+Radio Telescope
+you can back off to a distance and use one of the small hills as a ramp along
+with jumping (B
+button).
+
+At the harder levels the fuel cells are fewer and do not reappear after they
+are used. If you
+drive too fast the moon buggy will likely turn upside down. Use the B button to
+jump it and try
+to get right side up.
+
+* * *
+
+Cheesy Chase
+Small Batteries Available: 4
+
+This game challenge is easy but it takes some time to finish. You are inside
+the cheese factory
+and there is a big problem with mice stealing the cheese. The number of mice
+you must catch
+depends on your level of difficulty.
+
+Look for a round of yellow cheese and there will probably be mice around it.
+These mice are
+fairly easy to catch with your vacuum (press and hold the B button) but most of
+them do have
+little jet packs to help them fly away. Catch five to fill your vacuum then go
+to a "Mouse
+House" and shoot them in with the B button.
+
+There are many areas to explore in this challenge and you will need to go to
+all of them in the
+more difficult levels of play. On the higher floors (through the upper
+air-locks) of the Baby
+Easy level and everywhere on the harder levels, besides the awful and
+irritating Angelicas-in-
+a-Box, there are round green bombs lying everywhere. They click when you get
+near, arming
+themselves. If you actually touch one it will blow up, costing you health. Look
+down before
+you jump down between crates or cases to make sure you don't land on a bomb
+unexpectedly.
+
+* * *
+
+MEDIEVAL WORLD
+
+Holy Pail
+Small Batteries Available: 4
+
+YOU MUST NOT LOSE THE WHITE HELPER BALL because it alone can lead you to the
+Holy Pail
+(along the Holy Pail Trail). You cannot find it by yourself. The Holy Pail will
+not appear, even if
+you know where it is found.
+
+There are pink potion bottles to take that will enable you to shoot back at the
+magical hollow
+armors that shoot at you. Press the B button to shoot. It takes two hits to
+destroy a magical
+armor. A knocking sound will warn you when one is nearby. There are also
+shields to protect
+you from the magical armor's green missiles. These items are temporary and when
+the colors
+dull at the bottom of the screen you must go and get another potion and shield.
+Green boots
+are found where you must make a long or tall jump. The power of the boots is
+very short-lived
+so you need to know what or where to jump at or to quickly. You sometimes need
+the boots to
+jump up to the white helper ball.
+
+At the more difficult levels of play it is better to eliminate all the magical
+armors first before
+you try to get anywhere. Some areas are absolutely infested with them but they
+can be
+destroyed with patience on your part. On these levels the helper ball will
+actually dive into the
+river and you must jump off the highest point of a bridge directly onto it to
+deploy it to the
+next stop. So, if all of a sudden you lose sight of the helper ball, look in
+the river first before
+wandering all over Medieval World trying to find it again.
+
+There are also two magical places up on the bluffs each with a central teleport
+that will send
+you to the opposite side of Medieval World.  One is full of band-aids.
+
+* * *
+
+Let's Play Bow and Apples
+Small Batteries Available: 4
+
+As Susie says, "You finally get to play with food!" Shoot the barrels, or
+targets to open a tower
+or the castle, and get the amount of apples required. Press B to take out your
+bow and arrow.
+Press X to put it away. You can't run quickly with it out. Press B and hold it
+to shoot farther.
+Use the Control stick to aim up or down, left or right. You never run out of
+ammunition.
+
+There are magical hollow armors that will attack you but you can eliminate them
+by shooting
+them. They give four apples in the Baby Easy level, less in the harder levels.
+There are not
+many band-aids available on the more difficult levels of play so be very
+careful when you hear
+the knocking sound that indicates a magical armor is nearby. There are many,
+many magical
+armors in the harder levels and they are all over, even up on the roofs in the
+castle keep. The
+magical armors, together with the Angelicas-in-the Box sitting on places you
+need to be, will
+give you a lot of shooting to do.
+
+Funny Money is in odd places in Medieval World, on the roofs of the houses in
+the castle keep
+for instance. In the keep there are platforms here and there to help you get
+up.  If you are
+playing on the easiest level you can also jump onto a barrel to the left of the
+church and then
+up to a walkway. Just don't shoot the barrel first! Look behind the houses
+also. Money can
+sometimes be found floating in the water. You can wander all over the challenge
+area and not
+find any money and then you may find $250 just sitting in the middle of an
+intersection of
+paths. Climb up to each of the windmills and see what is there. It takes a lot
+of searching to
+find it all.
+
+*THE TOWER*
+
+STORMIN' THE CASTLE
+
+You are driving your very own kittypult. Press B to pull back the scoop and lob
+a rock. Watch
+the strength meter as you hold down B. The higher it is, the farther your rock
+will go. Lob
+rocks at everything you see. You will be surprised at what you can break up.
+Sometimes there
+are things you need under structures or haystacks. If you find yourself and
+your kittypult
+upside down press B to flip yourself over by using the catapult as a lever.
+Press X to reverse.
+
+Angelica will try to hit you with big bubbles.  If one touches you your health
+will go down. Find
+a band-aid to restore your health. Even though Angelica is obnoxious with her
+remarks you
+cannot hit her with a rock.
+
+There are colored shields on the ground areas and on overhead tracks. These you
+must roll
+onto. They will lift the grates over the door to the next area so you can pelt
+it with your rocks.
+
+In the last area drive onto the green path that meanders through all the areas,
+go to the end
+and lob a rock at the barred window. Drive through the opening at high speed
+and get a key,
+money and a First Aid kit as you fall. You will land in the first castle area
+you opened.
+
+Return to the final area and go up the ramp. The door to a secret room is now
+open. This
+room is carpeted with gold coins and full of overhead ramps hanging from the
+ceiling. The
+ramps are difficult to get up to and to stay on but they are full of lots and
+lots of money. Take
+your kittypult to a high corner of the room closest to the ramp access and race
+down to it to
+get up to the ramps.  It may take you many tries but you can do it. You may
+also fall off many
+times but if you want to buy all the bonus games you will need that Funny Money
+lying about
+up there.
+
+Once you open the door to Angelica, you have beaten the game. Save your game.
+
+On the harder levels of play there are Angelicas-in-the Box scattered around
+and magical
+hollow armors will attack you.  Fortunately you have an unlimited supply of
+rocks.
+
+6. SINGLE/MULTIPLAYER BONUS GAMES*
+
+To get these you must go to the ATM on Tier 1. Stand on the $ sign and press A.
+You will be
+pulled up to where you can buy the games with Funny Money. All the original
+characters used
+in the game are available to use here. To use the other characters listed below
+you must pay
+extra.  These games require a memory card.  After you purchase one or more,
+save your
+game. To play the games choose Play Silly Stuff from the opening menu.
+
+These games are a lot of fun and I have them on one of my memory cards for
+friends and
+family to try when they don’t want to spend a lot of time playing a game. These
+are great for
+short-term entertainment.
+
+Carrot Catchin'	 				  $500
+1 player. Grab carrots as you sled down the hill. See who can get the most.
+	Play as Susie 		$200
+
+Ring Roller Coaster 				  $600
+1 player. Fly through as many rings as possible before time runs out. Throw
+pies at the solid
+rings for extra time. (Available after you complete Circus World)
+	Play as Stu		$250
+	Play as Angelica	$250
+
+Target Bash 					  $600
+1 player. Use your kittypult to smash targets.  See how many you can get before
+time runs
+out.
+	Play as Dil 		$250
+
+Snow K Corral 					  $900
+2 players. It’s a snowball fight! The last player standing wins. (Available
+after you complete
+Snow World)
+	Play as Angelica 	$400
+	Play as Susie 		$400
+
+River Race					  $900
+2 players.  It’s a boat race. (Available after you complete Jungle World)
+	Play as Grandpa 	$350
+
+Double Subble Trouble				$1200
+2 players. Submarine Tag.  Hit the other player more times with a torspeedo
+than they hit
+you. (Available after you complete Undersea World)
+	Play as Grandpa	$300
+	Play as Dil		$300
+
+Loopy Hoop Race				$1500
+2 players. Race your airplanes through the rings in three laps.  Make sure you
+only fly through
+your rings. (Available after you complete Circus World)
+	Play as Dil 		$350
+	Play as Stu 		$350
+
+Loopy Hoop Race 2 			  	$1500
+2 players. The rings are closer together so you can use cream pies to slow each
+other down.
+
+Lunar 500 					$1500
+2 players.  It’s a moon buggy race. (Available after you complete Moon World)
+	Play as Susie		$400
+	Play as Dil		$400
+	Play as Angelica	$400
+
+Target Time 					$2000
+2 players. Hit the targets on the barrels and collect as many apples as you can
+before time
+runs out. (Available after you complete Medieval World)
+	Play as Angelica	$300
+	Play as Susie		$300
+
+Chuck and Duck 				$2500
+2 players. Use your kittypult to splat the other player with water balloons.
+Whoever gets the
+most hits wins.  There are lots of band-aids around to keep you healthy.
+(Available after you
+defeat Angelica)
+	Play as Dil 		$600
+	Play as Angelica 	$600
+
+Get the Sled Out				$1500
+2 players.  It’s a sled race. (Available after you complete Snow World)
+	Play as Dil 		$200
+	Play as Angelica 	$200
+
+Double Scoop Cone Zone			$1000
+2 players. It’s a Snow Cone fight! Whoever gets splatted the least wins.
+(Available after you
+complete Circus World)
+	Play as Susie		$400
+	Play as Angelica	$400
+
+*Game descriptions adapted from the instruction booklet.
+
+Secret funny money 				  $500
+YOU MUST BUY THIS to have enough money to purchase the games and extra
+characters.
+Thousands and thousands of dollars worth of Funny Money become visible in all
+the challenges
+on every floor. This is not available until Tier 3 is deployed.
+
+Silly sounds 					    $25
+Tootie horns, "tockety-tock," "te-whee-wheeee," "wa-gah-dah wah-gah-dah" and
+toilet flushes
+will sound when you jump, shoot, fall or land on something. Young children will
+find these
+sounds hilarious, especially the toilet flushes. This is not available until
+Tier 3 is deployed.
+
+7. GLITCHES
+
+1. The first glitch I found in this game is that when you are jumping from
+place to place you
+can inadvertently end up ‘inside’ a rock or a structure, or in a niche or
+crevasse. Sometimes
+you can get out by repeatedly pressing A and using the Control Stick, but you
+may have to
+exit the challenge.
+
+If you do not manage to get out of your rock or structure, etc. the game will
+often put you
+back at the beginning of the challenge. This has happened to me in challenges
+and I would
+just return to where I was before. However, in Fly High Egg Hunt I already had
+six of the
+seven eggs gathered. I had to exit this challenge because there is no way to
+get to the second
+area on foot and I had gathered all the eggs in the first area. You cannot use
+a scarey-dactyl
+unless you have an egg and there were none.
+
+*However, igorseabra@gmail.com wrote me to say: I have found that it is
+possible to get from
+the first area to the second on foot…To do it, you must have full health. From
+the start, go
+back and left until you get to the lava lake, near the wall. From here, jump as
+far as you can
+and then keep jumping on the lava until you're at the other side.  I've tested
+by myself and it
+works, trust me.*
+
+2. The second glitch is in the Temple of the Lamp challenge. On the more
+difficult levels of
+play Susie continues to tell you that you need to collect 40 jewels to open the
+gates to the
+Temple. In fact, on Rugrat Medium you need 55 jewels and on Reptar Tough you
+need 70
+jewels. The number showing on the bottom of the screen is correct, however.
+
+3. When I was playing in Medieval World, there was purple Funny Money over the
+castle gate.
+You could see it from both sides of the gate but it is impossible to get
+anything there because
+the game does not allow you to jump there.
+
+8. CHEATS
+
+I have found no cheat codes whatsoever for this game.  If they exist, please
+send them to me
+at cathairetic@cox.net  and I will be happy to give you credit.
+
+
+
+1
+
+
+* GAME: Rugrats In Paris: The Movie
+* SYSTEM: Personal Computer (PC)
+
+* TITLE: Walkthrough
+* VERSION: FINAL (8/6/2003)
+
+* AUTHOR: Paul Rudoff
+* E-MAIL: http://www.theraffon.net/~spookcentral/email.htm
+* WEBSITE: http://www.spookcentral.tk
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TABLE OF CONTENTS
+-----------------
+
+1. Introduction
+2. Minimum System Requirements
+3. Characters
+4. Gameplay Elements
+5. Walkthrough
+6. Revision History
+7. Copyright Notice & Disclaimer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+INTRODUCTION
+------------
+
+[from the game manual]
+
+Chuckie and the babies are in luck!  Tommy's dad, Stu, is going to do some
+work at an amusement park called EuroReptarland in Paris, France!  Tommy
+gets to take some of his friends along for the trip.  While Stu is
+working, the kids get to take a special tour of the amusement park.  They
+meet Kimi, whose mom works at the park.  Kimi's an expert on the layout of
+the park, and is going to give the babies a guided tour.
+
+EuroReptarland is run by Coco LeBouche, who isn't as nice as someone who
+works in an amusement park should be.  Coco doesn't watch where she's
+going and trips over Chuckie's favorite toy, his teddy bear named Wawa.
+She grabs Wawa and gives it to her assistant to get rid of!  The assistant
+takes off into the park with Wawa!
+
+The babies promise to help Chuckie get Wawa back.  Thank goodness Kimi is
+along, ready to help navigate the huge amusement park!
+
+================================================================================
+
+MINIMUM SYSTEM REQUIREMENTS
+---------------------------
+
+[from the game manual]
+
+-- Windows 95/98 *
+-- Pentium 166 MHz processor or better (Pentium 233 MHz recommended)
+-- 16 MB of RAM (32 MB recommended)
+-- Quad speed (4x) CD-ROM drive (8x recommended)
+-- Video card capable of 16-bit graphics with a minimum of 2 MB of RAM
+-- 16-bit Windows- and DirectX-compatible sound card
+-- Video card compatible with DirectX
+-- 100 MB available hard disk space
+
+* The game runs flawlessly under Windows 2000, so I would assume that it
+will run perfectly under Windows XP.  It should also run fine under
+Windows ME, since that is a derivative of Windows 95/98, even though it
+doesn't specifically state it.
+
+================================================================================
+
+CHARACTERS
+----------
+
+[all descriptions are from the game manual]
+
+Chuckie Finster
+Voiced by Christine Cavanaugh
+Chuckie's the star of the game!  Help him get his Wawa back.  A mean lady
+named Coco stole it.
+
+Tommy Pickles
+Voiced by E.G. Daily
+Without Tommy, the kids wouldn't even be on this adventure in Paris.
+Tommy's dad is working at EuroReptarland, fixing the giant Reptar.
+
+Dil Pickles
+Voiced by Tara Charendoff
+Dil's following behind in his jumpy seat, as usual.
+
+Phil and Lil DeVille
+Voiced by Kath Soucie
+Phil and Lil are on the trip, too, jumping in to take part in all the
+'citing adventures.
+
+Kimi Watanabe
+Voiced by Dionne Quan
+Kimi's mom works at EuroReptarland, so Kimi knows all the ins and outs of
+the park.  Kimi is the one who'll give you hints when you click the Help
+icon.
+
+Angelica Pickles
+Voiced by Cheryl Chase
+Angelica somehow made her way to the EuroReptarland control room.  Give
+her bonbons because she's got the power to give you clues!
+
+Coco LeBouche
+Voiced by Katherine Movius (Susan Sarandon in the film)
+The evil head of EuroReptarland, Coco treats her employees badly, hates
+children, and likes Chuckie even less because she tripped over his Wawa.
+
+Jean-Claude
+Voiced by Keythe Farley (John Lithgow in the film)
+Coco's slimy henchman and toady, Jean-Claude doesn't like kids either.
+He does whatever Coco tells him to do.
+
+Reptar
+Meet the terrifyingly huge yet tenderhearted star of EuroReptarland.
+He may look scary, but he's really the babies' best friend!
+
+Robosnail
+Reptar's historical nemesis is Robosnail, the colossal robotic snail of
+EuroReptarland.  He's ready to battle Reptar to the finish!
+
+================================================================================
+
+GAMEPLAY ELEMENTS
+-----------------
+
+[all text from the game manual, rearranged by me for better reading]
+
+Saving Games
+Your games are automatically saved when you exit the game.  You can go
+back to your saved game and you'll still have all of your inventory items
+and will be in the same place in the adventure.  All of the entrances
+you've opened will still be unlocked.  Just continue your quest for Wawa.
+
+Navigating
+Use your mouse to move around (or the arrow keys on your keyboard).  Move
+the shoeprints cursor where you want the babies to go, then left-click.
+The babies will walk to where you clicked.  Use your mouse to left-click
+on items in the game.  Your cursor will change to an exclamation point (!)
+whenever it is positioned over a clickpoint.  If you see an exclamation
+point (!), click on that spot.
+
+Monitor Consoles
+There's some secret information you need to learn if you're going to win
+the game.  Fortunately (or not), Angelica has made her way into the
+control room!  Go to the monitor consoles you'll see around the park to
+talk to Angelica.  She won't give out important information unless you
+give her chocolate candy bonbons.  You can collect the bonbons as you
+travel through EuroReptarland.  Collect all the candies you can, because
+Angelica can see everything from the control room and has lots of advice
+to give.
+
+Games
+When Chuckie and the babies find a game they need to play in order to get
+Chuckie's Wawa, the mouse cursor will change into a ticket.  Click to
+play.
+
+
+On-Screen Display
+-----------------
+
+Inventory Items
+The items in your inventory will appear in your backpack until you use
+them.  Pick up items you see along the way, like bonbons or light sticks.
+The bonbons will be needed to buy information from Angelica, who's in the
+park's control room.  The light sticks are needed to see in the darkness
+of the underground park.
+
+Help & Hints
+Click on the Question Mark to get help and hints.  When you click the Help
+Button, Kimi will offer tips and tricks for the section of the game you're
+in.  If Kimi has more than one tip for you, click the Arrow Button to get
+another tip.  Click OK when you're done.
+
+Back Arrow
+Click the Back Arrow to go back to the beginning or exit the game.
+
+Difficulty Level
+Click on the Difficulty Icon to change the level of difficulty of the game
+you're currently playing.  If you're in the middle of a game and it's too
+hard, change the difficulty level to an easier setting and you'll restart
+that game with the new difficulty level.
+
+================================================================================
+
+WALKTHROUGH
+-----------
+
+The original walkthrough was provided to me by THQ e-mail support.  I have
+added information from the game manual, as well as from my own playing, to
+it.
+
+1. To start, walk up and to the left to go into Ooey Gooey World.
+
+2. If you win all 10 levels you will get the key that will allow you to
+enter the elevator that goes to basement #1.
+
+Ooey Gooey World
+Help Kimi drive her car through ten levels of mazes.  She must collect the
+elevator key hidden somewhere along the tracks and make it to the exit
+before getting slimed!  As the car moves through the maze, click on the
+Gooey Mice to switch to different tracks that will lead Kimi in another
+direction.  Use the spacebar to give Kimi's car a surge of speed.  Kimi
+will get slimed if she runs into obstacles or traps.  She can only take so
+much slime before she gets "slimed out" and has to start over again.  Go
+through a car wash to clean up the slime and empty the slime meter.
+Direct Kimi's car to collect all the bonus items you can, like the Reptar
+and Robosnail toys, to earn extra points.
+
+3. Walk to the right from Ooey Gooey World, to get to the elevator.
+
+4. Once in Basement #1 you will need to get the Box.  It will be found in
+the lower left hand corner of basement #1.  You can get to it by
+heading left from the monitor that Angelica appears on.
+
+5. Find the top middle section of the basement and use the box to get on
+the lift.
+
+6. At the top you will be above ground and you will need to go up to get
+to the Rice Bowl Ride.
+
+7. Try to collect Bon Bons and Light Sticks along the way.
+
+8. Help Dil collect all of his toys to beat the Rice Bowl Ride to get the
+shovel.
+
+Rice Bowl Ride
+Baby Dil's stuff is lost in the Rice Bowl ride.  Grab Dil's stuff and make
+it to the exit before time runs out.  Watch for the spinning rice bowls
+that move around and must be avoided.  Use the directional arrows on the
+keyboard to maneuver Dil.  Using two keys at one time, such as the right
+arrow and down arrow, will move Dil at an angle.  Guide Dil past the bowls
+to pick up his belongings.  If a rice bowl hits him, he'll drop his stuff.
+Pick up bonus items, like rattles, for big points!  Watch for special
+items like the ice cube and the green clock to help you out.
+
+9. After you complete the Rice Bowl Ride, go back down to Basement #1 and
+collect the Bon Bon.  You will need to go back up the lift and go up and
+to the right until you see a patch of dirt by a boarded up entrance.  Move
+up and click with the shovel.
+
+10. You are then taken to Basement #2.  Try to collect all of the Bon Bons
+first, then you will need to travel to the right until you see a circular
+wheel with 4 colors and several gears to the right of it.  Hit the Red
+lever to activate the gears.
+
+11. Click the Blue button, then Red, then Green to deactivate the gears.
+You will then be able to get through.  This order may change randomly,
+it's part of the puzzle.  You will need to do this again to go back the
+other way as well.
+
+12. Once past the Gears you will see a TV to the right.  Click on it and
+you will talk to Angelica and give her the Bon Bons and she will give you
+a piece of paper with a code on it in exchange.
+
+13. You will need to go back to the left and go back above ground.  Then
+go back down into Basement #1.  Collect all the bon bons you can find.
+
+14. From the Lift in Basement #1 go to the left to get to the Large
+computer.  Get near the computer and the cursor will turn into a piece of
+paper with numbers on it.  Click and Chuckie will enter the numbers into
+the computer and you will go above ground to a new area.
+
+15. Go up and then to the left to get to the Chuckie Chan Game.  This game
+is a lot like the classic Pong (though it's more reminiscent of Breakout
+on the Atari 2600 to me).  You must beat all 10 levels to win the Black
+Belt for Chuckie.
+
+Chuckie Chan
+Chuckie Chan, the well-known martial arts expert, is featured in this
+arcade game.  Use the left/right arrow keys or hold down the left mouse
+button to move Chuckie across the screen.  Whenever the ball comes near
+Chuckie, he'll punch it.  Use the spacebar to launch the ball.  Maneuver
+Chuckie to hit the balls toward the wall of masks.  Don't lose the ball,
+or you'll lose one chance.  Some of the masks are special bonus power-ups.
+Collect all the bonus items you can like the pinwheel and the rattle to
+earn extra points.  Watch for the special bonus ice cream cone, too!
+Press the spacebar to have Chuckie kick the ball fast and earn more points
+when you hit items.  Keep the ball in motion and hit all the masks until
+Chuckie earns his black belt!
+
+16. Go back down the ladder and click on the TV monitor.  You will then be
+given a mission by Angelica to rescue her doll from the volcano.
+
+17. Go to the right and click on the Lift to get above ground.
+
+18. Then go back up to the right and click on the patch of dirt with the
+shovel.  You will be taken down in to Basement #2.  Go to the right until
+you get to the Escalator then go up.
+
+19. Once up the escalator you will need to go downward and then up the
+wooden ramp.  Click to enter the Ninja Chase (which plays a lot like
+Donkey Kong).  Beat all 10 levels of the Ninja Chase to get Angelica's
+Cynthia doll.
+
+Ninja Chase
+Tommy, the best climber of the group, is given the assignment of
+retrieving Angelica's Cynthia doll from the top of a volcano.  He must get
+there before the Ninja security guards can grab him!  Use the arrow keys
+to move Tommy and use the spacebar to help him jump over obstacles.  Use
+the spacebar in combination with the left and right arrow keys to do a
+running jump.  If the Ninja guards catch Tommy, he'll lose one chance and
+have to start over.  Grab all the bonus power-ups you can, like the bag of
+marbles!  Collect bonus points by collecting flowers along the way.  At
+the end of each level, a cargo lift will take Tommy higher for more
+climbing.
+
+20. Go down and to the right and down the tube to get back to Basement #1
+once you have beaten the Ninja Chase game.
+
+21. Navigate up and to the left to get back to the TV Monitor to give
+Cynthia back to Angelica.  She will then turn off the security system for
+you.
+
+22. Go right, then down, and then back left, to get to the Elevator that
+was in the beginning of the game.  Now go back up the elevator.  When you
+are back to the beginning area, go down until you see a metal ramp.  Click
+to enter the Reptar Service Entrance and play the final game - Reptar vs.
+Robosnail.
+
+Reptar vs. Robosnail
+Control the star of EuroReptarland, Reptar himself, in a robotic battle
+against his evil nemesis, Robosnail.  You'll be fighting on a bridge over
+the river Seine in the heart of Paris.  Push Robosnail off the bridge to
+win the game!  Use the arrow keys to control Reptar and the arrow keys in
+combination with the spacebar to push Robosnail away.  Use the spacebar by
+itself to do a defensive move to avoid a shove from Robosnail.  Don't let
+Robosnail push Reptar into the river, or the game ends.  There are bonus
+power-ups along the bridge that'll help both robot monsters, so watch for
+the lightning bolts and batteries.
+
+23. Assuming you've pushed Robosnail off the bridge, you have now won the
+game.  Congratulations.
+
+================================================================================
+
+REVISION HISTORY
+----------------
+
+Ver. FINAL (8/6/2003)
+The very first and FINAL version of this guide.
+
+================================================================================
+
+COPYRIGHT NOTICE & DISCLAIMER
+-----------------------------
+
+This document is copyright 2003 by Paul Rudoff.  Rugrats In Paris: The
+Movie is copyright 2001 by THQ & Viacom International Inc.  This document
+is not associated with or endorsed by THQ, Viacom International Inc., or
+anyone else involved in the making of the game.
+
+This document may NOT be reproduced, redistributed, sold (in any way,
+shape, or form), published in a magazine, or put anywhere on the Internet
+EXCEPT at GameFaqs.com.
+
+This copyright notice and disclaimer may be updated by me from time to
+time without notice to you.
+
+Any rights expressly and not expressly granted herein are reserved.
+
+================================================================================
+
